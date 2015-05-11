@@ -11,3 +11,14 @@
   [演習用ページ](https://github.com/MinoruNakazawa/ubiq_ex) 　を開く
 
   ダウンロード先を指定してクローン
+  
+  ブランチを作成 
+  
+
+  ```
+  $ git clone https://github.com/MinoruNakazawa/ubiq_ex.git
+  $ cd progress
+  $ git checkout -b <自分の名前(小文字英字)>
+  $ mkdir <自分の名前(小文字英字)>
+  $ cd <自分の名前(小文字英字)>
+  ```
