@@ -8,6 +8,6 @@
 - Step.2 リポジトリをクローン(初めての場合)
 　
   
-  https://github.com/MinoruNakazawa/ubiq_ex　を開く
+  [演習用ページ](https://github.com/MinoruNakazawa/ubiq_ex) 　を開く
 
   ダウンロード先を指定してクローン
